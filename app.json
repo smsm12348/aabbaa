@@ -1,0 +1,39 @@
+{
+    "name": "ابن سعد🇶",
+    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات 🔔!",
+    "stack": "container",
+    "repository": "https://github.com/haahjwjq/fidiwub",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github./haahjwjq/fidiwub",
+    "env": {
+        "APP_ID": {
+            "description": "اب ايدي/ APP_ID",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش/APP_HASH",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس/TERMUX",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت/TOKEN",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ/BOT_USERNAME",
+            "value": "",
+            "required": true
+        }
+    }
+}
